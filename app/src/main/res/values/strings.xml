@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinCoroutines-Channels</string>
+    <string name="text_view">Hello world</string>
+    <string name="text_view_main_activity3">Main activity 3</string>
+    <string name="text_view_main_activity4">Main activity 4</string>
+    <string name="text_view_another_activity">Another activity</string>
+
+</resources>
